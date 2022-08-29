@@ -1,0 +1,17 @@
+The two datasets used are
+
+Veda's Dataset for Single Station: https://drive.google.com/drive/folders/1FJ2xGixfPVzRcq3CJ97u2HsCZq9KPuvG?usp=sharing
+
+My Multi Station Dataset: https://drive.google.com/drive/folders/1teivnWkNxtlGKrZUE69yDarL4P0zuaJ3?usp=sharing
+Earthquake Feature Prediction Dataset: https://drive.google.com/drive/folders/1teivnWkNxtlGKrZUE69yDarL4P0zuaJ3?usp=sharing (same as Multi Station)
+
+To use the code:
+1) Download the appropriate dataset and model folder.
+2) Ensure that the 'New_Data' or 'Veda_Data' are in the same folder as the model folders.
+3) Modify the notebooks to find the appropriate folders.
+4) Recommended running the pre-processing for each normalisation method ('old', 'new' and 'new2').
+5) Ensure the 'choice' variable in the CNN is the same as the normalisation method.
+
+
+
+
